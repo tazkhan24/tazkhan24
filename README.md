@@ -1,13 +1,13 @@
-[![MasterHead](https://camo.githubusercontent.com/5e1bda2913b082fc4351c67808d11a820a4f07e39f1334f4fea14c817ec3d3ce/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3431363631302f73637265656e73686f74732f343830313130352f636f64696e675f6465736b5f666c61745f766563746f725f75695f75785f64657369676e5f696c6c757374726174696f6e5f6d6f74696f6e5f616e696d6174696f6e5f676966322e676966)](https://tazkhan24.github.io/Portfolio/)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://tazkhan24.github.io/Portfolio/)
 
 <h1 align="center">Hi 👋, I'm Taz Khan</h1>
 
 <h3 align="center">A passionate developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazkhan24&label=Profile%20views&color=0e75b6&style=flat" alt="tazkhan24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tazkhan24" alt="tazkhan24" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/tazkhan24" target="blank"><img src="https://img.shields.io/twitter/follow/tazkhan24?logo=twitter&style=for-the-badge" alt="tazkhan24" /></a> </p>
 
